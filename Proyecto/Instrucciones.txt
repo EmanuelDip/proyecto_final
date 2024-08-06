@@ -1,0 +1,12 @@
+La carpeta pagina web va dentro de HTDOCS
+El archivo gym.sql debe de ser importado en el phpmyadmin
+
+entrar al proyecto mediante "localhost", en el navegador
+
+Carpeta admin: contiene formulario de subida, login, archivo "subir_instructor.php", se encarga de procesar lo enviado en el formulario de subida (formulario.php)
+Carpeta Components: contiene los imports (header y las tarjetas de instructores)
+Carpeta Config: Contiene el archivo db.php, para la conexión a la base de datos
+
+
+Javascript en la pagina:
+Scrollreveal y configuración
